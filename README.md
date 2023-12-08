@@ -1,6 +1,6 @@
 # strokeanalysisMLproject
 
-# Stroke Risk Prediction Project
+## Stroke Risk Prediction Project
 
 # Overview
 
