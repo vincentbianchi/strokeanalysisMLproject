@@ -1,12 +1,12 @@
 # strokeanalysisMLproject
 
-## Stroke Risk Prediction Project
+## - Stroke Risk Prediction Project -
 
-# Overview
+### Overview
 
 This repository contains the code and models for a machine learning project aimed at predicting the likelihood of stroke occurrence based on publicly available stroke data. The goal is to identify factors that contribute to the risk of stroke and provide a tool for highlighting patients who are at a higher risk.
 
-# Models
+### Models
 The project includes four machine learning models:
 
 Lasso Regression Model
